@@ -1,6 +1,5 @@
 from tkinter import *
 import math
-import numpy as np
 
 def create_button(root, params, text, command, row, column, sticky="nsew"):
     button = Button(root, params, text=text, command=command)
