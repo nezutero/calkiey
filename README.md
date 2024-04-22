@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-git clone https://github.com/kenjitheman/calkiey.git
+git clone https://github.com/nezutero/calkiey.git
 ```
 
 ## Usage
